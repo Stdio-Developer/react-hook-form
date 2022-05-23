@@ -1,4 +1,4 @@
-This is a [React Hook Form Demo](https://react-hook-form.com) project.
+This is a demo project with [React Hook Form](https://react-hook-form.com).
 
 ## Getting Started
 
